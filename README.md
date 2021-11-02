@@ -1,6 +1,6 @@
 # Sobrio theme
 
-![Screenshot](./github/window.png)
+![Screenshot](./.github/window.png)
 _Typical Alacritty screen using this theme_
 
 ## About this theme
