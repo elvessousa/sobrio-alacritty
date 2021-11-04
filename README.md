@@ -77,3 +77,6 @@ The "installation" process is quite simple. With the code above, just follow the
 2. Add the line `colors: *sobrio` or `colors: *sobrio-light` and save the file.
 3. ???
 4. Profit!
+
+![Screenshot](./.github/window-light.png)
+_Light version_
